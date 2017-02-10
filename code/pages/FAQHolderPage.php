@@ -12,8 +12,6 @@ class FAQHolderPage extends Page
      * @inheritdoc
      */
     private static $defaults = [
-        "ShowInMenus"  => 0,
-        "ShowInSearch" => 0,
         "CanViewType"  => "Inherit",
         "CanEditType"  => "Inherit",
         "ShowInHeader" => 0,
