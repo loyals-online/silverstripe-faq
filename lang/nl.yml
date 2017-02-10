@@ -1,0 +1,9 @@
+nl:
+  FAQHolderPage:
+    SINGULARNAME: Veel gestelde vragen pagina
+    PLURALNAME: Veel gestelde vragen paginas
+    DESCRIPTION: Veel gestelde vragen pagina
+  FAQ:
+    FAQs: Veel gestelde vragen
+    db_Question: Vraag
+    db_Content: Antwoord

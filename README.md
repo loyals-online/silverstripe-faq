@@ -1,2 +1,4 @@
-# silverstripe-faq
+silverstripe-faq
+=====================
+
 A simple FAQ page

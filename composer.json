@@ -1,0 +1,25 @@
+{
+  "name": "loyals-online/silverstripe-faq",
+  "description": "A simple FAQ page",
+  "type": "silverstripe-module",
+  "keywords": [
+    "silverstripe",
+    "faq",
+    "module",
+    "cms"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Martijn Schenk",
+      "email": "martijnschenk@loyals.nl"
+    }
+  ],
+  "require": {
+    "silverstripe/framework": "~3.4"
+  },
+  "extra": {
+    "installer-name": "faq"
+  },
+  "target-dir": "faq"
+}
